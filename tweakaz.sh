@@ -88,4 +88,4 @@ setup  # ensure the whole file is downloaded before executing
 
 echo "Az-CLI DONE"
 
-apt install nano man
+apt install -y nano man
