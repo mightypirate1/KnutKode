@@ -85,3 +85,7 @@ dist name: 'curl -sL https://aka.ms/InstallAzureCLIDeb | sudo DIST_CODE=<dist_co
 }
 
 setup  # ensure the whole file is downloaded before executing
+
+echo "Az-CLI DONE"
+
+apt install nano man
